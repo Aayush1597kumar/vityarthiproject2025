@@ -2,13 +2,13 @@
 ## pomodoro technique
 ### overview: the program help students to do affective study and the method used in the program is pomodoro technique . the pomodoro technique is helping student to study effectively each study session is of 25 minute and there is a break of 5 minutes and again same cycles begin upto 4 times then 15 minute of break now its upto user whether they again continues  or not.
 
-the feature of the progrm are as follow :
-it gives a countown timer .
-it tells when you have started the pomodoro clock  and when you have ended the clock .
-it has a alarming system as well so that during study session the student should focus and alarm ring itself and tells abot the break and study session 
+the feature of the progrm are as follow :<br>
+it gives a countown timer .<br>
+it tells when you have started the pomodoro clock  and when you have ended the clock .<br>
+it has a alarming system as well so that during study session the student should focus and alarm ring itself and tells abot the break and study session <br>
 
-there are various tools used in the program :
-we have used date and time module .
+there are various tools used in the program :<br>
+we have used date and time module .<br>
 we have used time module .
 we have used winsound module .
 we have defined a function .
