@@ -31,6 +31,15 @@ for testing you can use a variable z(remove z*60 to z only) in seconds in order 
 
 
 
+<img width="457" height="605" alt="image" src="https://github.com/user-attachments/assets/1af088d6-cbf2-4a0d-91d3-f205ed0490e4" />
+
+
+
+
+
+
+
+
 
 
 
