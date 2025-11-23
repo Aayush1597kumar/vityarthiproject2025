@@ -1,5 +1,5 @@
-#vityarthi project 
-#pomodoro clock 
+# vityarthi project 
+## pomodoro clock 
 
 
 problem statement :<br>
