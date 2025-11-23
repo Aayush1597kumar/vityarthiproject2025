@@ -9,17 +9,17 @@ it has a alarming system as well so that during study session the student should
 
 there are various tools used in the program :<br>
 we have used date and time module .<br>
-we have used time module .
-we have used winsound module .
-we have defined a function .
-we have used a loop concept .
-basic mathematics tools is used.
+we have used time module .<br>
+we have used winsound module .<br>
+we have defined a function .<br>
+we have used a loop concept .<br>
+basic mathematics tools is used.<br>
 
 
-step you should follow to run the project 
-open the file in vs code 
-go in the terminal 
-right click and run the program 
+step you should follow to run the project <br>
+open the file in vs code <br>
+go in the terminal <br>
+right click and choose  run the program <br>
 
 instruction for testing 
 for testing you can use a variable z(remove z*60 to z only) in seconds in order to get the output fast and to see how fast the project is working. otherwise, use z*60 that is in minute the same code provided from me .while using the z*60 variable will take time but it is what the pomodoro clock is but in testing phase we can check it with z variable only it will give you brief idea how the program works 
