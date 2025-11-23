@@ -21,7 +21,7 @@ open the file in vs code <br>
 go in the terminal <br>
 right click and choose  run the program <br>
 
-instruction for testing 
+instruction for testing <br>
 for testing you can use a variable z(remove z*60 to z only) in seconds in order to get the output fast and to see how fast the project is working. otherwise, use z*60 that is in minute the same code provided from me .while using the z*60 variable will take time but it is what the pomodoro clock is but in testing phase we can check it with z variable only it will give you brief idea how the program works 
 
 
