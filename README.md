@@ -8,11 +8,13 @@ it tells when you have started the pomodoro clock  and when you have ended the c
 it has a alarming system as well so that during study session the student should focus and alarm ring itself and tells abot the break and study session 
 
 there are various tools used in the program :
-we have used date and time module 
-we have used time module 
-we have used winsound module 
-we have defined a function 
-basic mathematics 
+we have used date and time module .
+we have used time module .
+we have used winsound module .
+we have defined a function .
+we have used a loop concept .
+basic mathematics tools is used.
+
 
 step you should follow to run the project 
 open the file in vs code 
